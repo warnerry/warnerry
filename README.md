@@ -54,9 +54,4 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
 </p>
 
-## Избранные проекты
 
-- **Проект 1 — название**: 1 строка о задаче/результате + стек (SQL/Python/Power BI)  
-  Репозиторий: `ссылка` · Демо/дашборд: `ссылка`
-- **Проект 2 — название**: 1 строка о задаче/результате + стек (SQL/Python/Power BI)  
-  Репозиторий: `ссылка` · Демо/дашборд: `ссылка`
