@@ -1,2 +1,2 @@
 ## Resume
-[📄 Резюме (PDF)](cv/Denis_Koltsov_CV.pdf)
+[📄 Резюме (PDF)](Denis_Koltsov_CV.pdf)
