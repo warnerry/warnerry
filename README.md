@@ -15,7 +15,7 @@
   </a>
   <a href="https://t.me/warnerry" target="_blank" rel="noreferrer"><b>Тг: @warnerry</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:denis..kolcov00@mail.ru"><b>Почта: denis..kolcov00@mail.ru</b></a>
+  <a href="mailto:denis.kolcov00@mail.ru"><b>Почта: denis..kolcov00@mail.ru</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="http://github.com/warnerry?tab=repositories"><b>Портфолио (GitHub)</b></a>
 </p>
